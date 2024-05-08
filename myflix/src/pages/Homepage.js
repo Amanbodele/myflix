@@ -104,7 +104,7 @@ function Homepage() {
 
             <Footer />
             <div className='design'>
-                Designed By : Aman Bodele
+                Designed By : Piyush Walde
             </div>
         </>
     ) :
